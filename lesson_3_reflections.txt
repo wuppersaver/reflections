@@ -12,3 +12,14 @@ pushing or pulling automatically the versions might not be finished or runable.
 Therefore the same arguments for pro and con are valid. One can forget to push
 or pull, but when doing it automatically one might also get to many unnecessary
 or unreasonable commits.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are just internal GitHub-Clones, which allow me to access and change the 
+repository of someone else, without changing the original. Clones to my computer
+from GitHub allow me to sync a repository online to e.g. collaborate with others
+or back things ub. Clones in my computer are repositorys and so I can change 
+things if I don´t want to use branches. A branch is inside a single repository and
+represents two different versions of one or more programs, which the user can work
+on to add a new feature or improve the program, so he will be able to switch between 
+the different branches and edit them without changing the other branches.
