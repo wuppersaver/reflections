@@ -1,5 +1,14 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
 When working with other people on one single project or wanting to share 
 the work, github is a great platform to do this. Others can access the files
 and make changes themselves and also it can get more attention, if it´s 
 worthy of it.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Like the debate about automatic saving or manual saving in version control when 
+pushing or pulling automatically the versions might not be finished or runable.
+Therefore the same arguments for pro and con are valid. One can forget to push
+or pull, but when doing it automatically one might also get to many unnecessary
+or unreasonable commits.
