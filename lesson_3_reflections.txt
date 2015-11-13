@@ -14,3 +14,7 @@ on to add a new feature or improve the program, so he will be able to switch bet
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Once one has changed something on the code, and has not pushed it to the repsository, one can easily check what he has done and also if a bug was introduced, this can be detected quite easily. Furthermore if a bug was introtduced by another collaborator, it is easy to restore the repository on the server to the old state.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaborating without Git or GitHub would involve sending the latest version of the code to one another and comparing them with the shells and diff. Therefore the detection of changes would be harder to realize and not in a nice and graphic way with colours. Furthermore without basic version control, there would be no log history and it would be hard to find bugs and so on in each others code and it would also be hard to get back to a previous stage. What would be easier, although depending on the project, would be the merging and the reviews, because the merging has to be done by hand and one can not accidentaly merge two versions and therefore perhaps delete changes or improvements made by the other person. This would be in some cases easier by merging manually.
